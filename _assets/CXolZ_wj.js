@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as a,A as r,a as l}from"./ix4hnBa_.js";const n={};function c(t,e){return a(),o("div",null,[r(t.$slots,"default"),e[0]||(e[0]=l("div",{class:"w-[500px] h-[50px] bg-slate-600 text-white"},"đây là footer",-1))])}const f=s(n,[["render",c]]);export{f as default};

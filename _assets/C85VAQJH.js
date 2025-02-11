@@ -1,0 +1,1 @@
+import{e as s,c as t,a as e,b as n,r as a,o as c}from"./ix4hnBa_.js";const _={class:"markdown-body"},r={class:"w-full flex justify-center"},l={class:"max-w-[1240px]"},f=s({__name:"[...slug]",setup(d){return(m,i)=>{const o=a("ContentDoc");return c(),t("main",_,[e("div",r,[e("div",l,[n(o)])])])}}});export{f as default};
